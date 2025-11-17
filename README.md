@@ -1,6 +1,6 @@
-ClassSpear 
+ClassSphear 
 A modern learning app for secondary school students
-ClassPear is an interactive, easy-to-use learning platform designed to help secondary school students study smarter. The app provides organized subjects, lesson notes, quizzes, assignments, and study tools that make learning simple, engaging, and effective.
+ClassSphear is an interactive, easy-to-use learning platform designed to help secondary school students study smarter. The app provides organized subjects, lesson notes, quizzes, assignments, and study tools that make learning simple, engaging, and effective.
 Features
 Subject-Based Learning  
 Students can access well-structured topics across major secondary school subjects such as:  
